@@ -20,8 +20,10 @@ DevOps: Azure DevOps
 Outros: REST APIs
 
 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical  
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical
+![Guilherme's GitHub stats](https://https://github-readme-stats-lovat-xi-56.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://https://github-readme-stats-lovat-xi-56.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
 
 🌎 Conecte-se comigo
 LinkedIn ([linkedin.com in Bing](https://www.linkedin.com/in/guilherme-henrique-oliveira-barboza/))
