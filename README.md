@@ -20,6 +20,7 @@ DevOps: Azure DevOps
 Outros: REST APIs
 
 📊 GitHub Stats
+
 ![Guilherme's GitHub stats](https://github-readme-stats-lovat-xi-56.vercel.app/api?username=GuilhermeBarboza&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-lovat-xi-56.vercel.app/api/top-langs/?username=GuilhermeBarboza&layout=compact&theme=radical)
