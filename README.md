@@ -20,9 +20,9 @@ DevOps: Azure DevOps
 Outros: REST APIs
 
 📊 GitHub Stats
-![Guilherme's GitHub stats](https://https://github-readme-stats-lovat-xi-56.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Guilherme's GitHub stats](https://github-readme-stats-lovat-xi-56.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
 
-![Top Langs](https://https://github-readme-stats-lovat-xi-56.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-lovat-xi-56.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
 
 
 🌎 Conecte-se comigo
