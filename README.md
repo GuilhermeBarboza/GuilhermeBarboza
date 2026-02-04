@@ -1,11 +1,29 @@
-### Olá, sou o Guilherme H. O. Barboza
+🌐 Guilherme — Desenvolvedor FullStack
+👨‍💻 Sobre mim
+🚀 Apaixonado por tecnologia e inovação
 
-- 🔭 Procurando oportunidade de estágio
-- 🌱 Estudando Javascript / Typescript, NodeJS, MongoDB, PostgreSQL e tecnologias relacionadas...
-- 😄 Ele/Dele
+💻 Experiência em desenvolvimento Front-end e Back-end
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBarboza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+🔧 Trabalho com C#, TypeScript, Dart e SQL
 
+📚 Sempre aprendendo novas ferramentas e boas práticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarboza&layout=compact&theme=dark#gh-dark-mode-only)
+🛠️ Tecnologias & Ferramentas
+Front-end: Angular, Flutter, Maui, WPF, HTML, CSS, Tailwind
 
+Back-end: .NET
+
+Banco de Dados: SQLServer
+
+DevOps: Azure DevOps
+
+Outros: REST APIs
+
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical  
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical
+
+🌎 Conecte-se comigo
+LinkedIn ([linkedin.com in Bing](https://www.linkedin.com/in/guilherme-henrique-oliveira-barboza/))
+
+Email (guilhermehob1993@gmail.com)
